@@ -1,3 +1,3 @@
 # teapot
 The teapot project
-I'm adding some superfluous text to this readme
+Perhaps we need a saucer too?
